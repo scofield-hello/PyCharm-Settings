@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="yapf" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Nickey\AppData\Local\Programs\Python\Python37\Scripts\yapf.exe" />
+      <option name="PARAMETERS" value="--style C:\Users\Nickey\yapfconf\.style.yapf files $FilePath$ --in-place" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

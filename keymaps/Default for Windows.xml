@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for Windows复制" parent="$default">
+  <action id="Macro.ReformatYAPFOptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>

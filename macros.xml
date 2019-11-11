@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="ReformatYAPFOptimizeImports">
+      <action id="Tool_External Tools_yapf" />
+      <action id="OptimizeImports" />
+    </macro>
+  </component>
+</application>
